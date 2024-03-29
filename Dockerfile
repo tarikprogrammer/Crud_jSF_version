@@ -6,7 +6,7 @@ RUN mvn clean package -DskipTests
 
 # Étape de déploiement
 FROM tomcat:9.0-jdk17-openjdk-slim
-COPY --from=build /app/target/classes/com/entreprise/crud_jsf ./ROOT
+COPY --from=build /app/target/classes  ./ROOT
 EXPOSE 8080
 
 
