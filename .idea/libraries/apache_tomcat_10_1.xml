@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="apache-tomcat-10.1">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../../../../Tools/apache-tomcat-10.1.18/apache-tomcat-10.1.18" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../../../../../../Tools/apache-tomcat-10.1.18/apache-tomcat-10.1.18/webapps/docs/appdev/sample/src" />
+      <root url="file://$PROJECT_DIR$/../../../../../../../Tools/apache-tomcat-10.1.18/apache-tomcat-10.1.18/webapps/examples/WEB-INF/classes" />
+    </SOURCES>
+  </library>
+</component>
