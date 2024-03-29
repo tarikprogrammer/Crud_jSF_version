@@ -9,7 +9,7 @@
             <property name="jakarta.persistence.jdbc.url" value="jdbc:mysql://mysql-22aa4c21-tarikbelaid928-10f2.a.aivencloud.com:18832/defaultdb?ssl-mode=REQUIRED"/>
             <property name="jakarta.persistence.jdbc.driver" value="com.mysql.jdbc.Driver"/>
             <property name="jakarta.persistence.jdbc.user" value="avnadmin"/>
-            <property name="jakarta.persistence.jdbc.password" value=""/>
+            <property name="jakarta.persistence.jdbc.password" value="AVNS_QJZ4v_KqQmfxJX3_YBR"/>
             <property name="eclipselink.ddl-generation" value="none"/>
             <property name="eclipselink.logging.level" value="FINE"/>
         </properties>
